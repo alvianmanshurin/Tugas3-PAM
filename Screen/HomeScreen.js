@@ -65,7 +65,7 @@ const HomeScreen = ({ navigation }) => {
         </TouchableOpacity>
       </View>
       <View style={styles.footer}>
-        <Text style={styles.copyright}>Namira Aulia - 120140210</Text>
+        <Text style={styles.copyright}>Alvian Manshurin - 120140162</Text>
       </View>
     </View>
   );
