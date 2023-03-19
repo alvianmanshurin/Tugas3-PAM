@@ -132,7 +132,7 @@ const MainScreen = ({ navigation }) => {
         keyExtractor={(item) => item.id}
       />
       <Text style={styles.copyright}>
-        Copyright Namira Aulia - 120140210
+        Copyright Alvian Mamshurin - 120140162
       </Text>
     </View>
   );
